@@ -9,35 +9,35 @@ weight = 20
 * [   tbq.jjj123.com 唐柏桥 ]({{< relref "tbq" >}})
 
 
-* [  20190807_Q7ZKTBTsN3Y 香港很多明星为什么为中共站台 与香港主流民意对抗？  ]({{< relref "20190807_Q7ZKTBTsN3Y.info_dir" >}})
+* [  20190807_Q7ZKTBTsN3Y 香港很多明星为什么为中共站台 与香港主流民意对抗？  ]({{< relref "20190807_q7zktbtsn3y_info_dir" >}})
 
 
-* [  20190807_CcWKeTpQapg 美国没收委内瑞拉政府全部财产！灾难离中共越来越近了  ]({{< relref "20190807_CcWKeTpQapg.info_dir" >}})
+* [  20190807_CcWKeTpQapg 美国没收委内瑞拉政府全部财产！灾难离中共越来越近了  ]({{< relref "20190807_ccwketpqapg_info_dir" >}})
 
 
-* [  20190805_9CB-UMcuUck 谈川普将中共列为货币操纵国 经济制裁在所难免  ]({{< relref "20190805_9CB-UMcuUck.info_dir" >}})
+* [  20190805_9CB-UMcuUck 谈川普将中共列为货币操纵国 经济制裁在所难免  ]({{< relref "20190805_9cb_umcuuck_info_dir" >}})
 
 
-* [  20190804_3_KvPHhlc5c 共和党全国委员会通过决议 强烈谴责中共强摘法轮功器官的行径 这意味着什么  ]({{< relref "20190804_3_KvPHhlc5c.info_dir" >}})
+* [  20190804_3_KvPHhlc5c 共和党全国委员会通过决议 强烈谴责中共强摘法轮功器官的行径 这意味着什么  ]({{< relref "20190804_3_kvphhlc5c_info_dir" >}})
 
 
-* [  20190801_6kPVSQRyHYM 川普再对3000亿美元中共商品征收关税 会否成为压垮中共的最后一根稻草 香港风云再起 中共进退失据  ]({{< relref "20190801_6kPVSQRyHYM.info_dir" >}})
+* [  20190801_6kPVSQRyHYM 川普再对3000亿美元中共商品征收关税 会否成为压垮中共的最后一根稻草 香港风云再起 中共进退失据  ]({{< relref "20190801_6kpvsqryhym_info_dir" >}})
 
 
-* [  20190728_Wirvm29O8qY 香港口罩革命何去何从 建立香港自治委员会势在必行  ]({{< relref "20190728_Wirvm29O8qY.info_dir" >}})
+* [  20190728_Wirvm29O8qY 香港口罩革命何去何从 建立香港自治委员会势在必行  ]({{< relref "20190728_wirvm29o8qy_info_dir" >}})
 
 
-* [  20190728_Rd9VoYHIaTE 聊聊川普如何突破媒体围堵及川普中文推  ]({{< relref "20190728_Rd9VoYHIaTE.info_dir" >}})
+* [  20190728_Rd9VoYHIaTE 聊聊川普如何突破媒体围堵及川普中文推  ]({{< relref "20190728_rd9voyhiate_info_dir" >}})
 
 
-* [  20190726_4Te8nBxvcK0 谈谈台湾敢言馆长和大陆打假英雄徐晓冬  ]({{< relref "20190726_4Te8nBxvcK0.info_dir" >}})
+* [  20190726_4Te8nBxvcK0 谈谈台湾敢言馆长和大陆打假英雄徐晓冬  ]({{< relref "20190726_4te8nbxvck0_info_dir" >}})
 
 
-* [  20190725_f3GEKusCQFA 香港局势、台湾选举、中美关系面面观  ]({{< relref "20190725_f3GEKusCQFA.info_dir" >}})
+* [  20190725_f3GEKusCQFA 香港局势、台湾选举、中美关系面面观  ]({{< relref "20190725_f3gekuscqfa_info_dir" >}})
 
 
-* [  20190711_2RWjbzI-IWE 推特遭到攻击？还是推特对我们进行又一次大屠杀？  ]({{< relref "20190711_2RWjbzI-IWE.info_dir" >}})
+* [  20190711_2RWjbzI-IWE 推特遭到攻击？还是推特对我们进行又一次大屠杀？  ]({{< relref "20190711_2rwjbzi_iwe_info_dir" >}})
 
 
-* [  20190707_FiyQ5Lt1G6w “中共如何全面封杀孤立我”之一：媒体封杀  ]({{< relref "20190707_FiyQ5Lt1G6w.info_dir" >}})
+* [  20190707_FiyQ5Lt1G6w “中共如何全面封杀孤立我”之一：媒体封杀  ]({{< relref "20190707_fiyq5lt1g6w_info_dir" >}})
 
