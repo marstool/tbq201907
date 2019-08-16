@@ -9,6 +9,9 @@ weight = 20
 * [   tbq.jjj123.com 唐柏桥 ]({{< relref "tbq" >}})
 
 
+* [  20190815_CsjiZD2E6h0 HONG KONG 2019, SUMMER  ]({{< relref "20190815_CsjiZD2E6h0.info_dir" >}})
+
+
 * [  20190814_8PZqO98Rf1w 香港何處何從  ]({{< relref "20190814_8PZqO98Rf1w.info_dir" >}})
 
 
@@ -40,6 +43,9 @@ weight = 20
 
 
 * [  20190725_f3GEKusCQFA 香港局势、台湾选举、中美关系面面观  ]({{< relref "20190725_f3gekuscqfa_info_dir" >}})
+
+
+* [  20190721_Z4_o6cM6eNk 21.7.2019 [香港元朗事件 Yuen Long, Hong Kong]  ]({{< relref "20190721_Z4_o6cM6eNk.info_dir" >}})
 
 
 * [  20190711_2RWjbzI-IWE 推特遭到攻击？还是推特对我们进行又一次大屠杀？  ]({{< relref "20190711_2rwjbzi_iwe_info_dir" >}})
