@@ -9,10 +9,19 @@ weight = 20
 * [   tbq.jjj123.com 唐柏桥 ]({{< relref "tbq" >}})
 
 
+* [  20190816_1162516316994957313 宇成 - 保衛 #Hongkong #香港学生 计划从9月2日开学日起开始罢课。“我们计划罢课，走上港岛、九龙和新界街头。我们要告诉政府，我们学生虽然年轻，但仍然关心社会。其实我很担心因为抗议而被逮捕，但我别无选择。走上街头是我们拯救香港的唯一途径”，15岁的香港高中生对美国之音说。#反送中 #香港  ]({{< relref "20190816_1162516316994957313.info_dir" >}})
+
+
+* [  20190816__1162385448506994697 Amnesty International - This is Hong Kong's leaderless protest movement.  ]({{< relref "20190816__1162385448506994697.info_dir" >}})
+
+
 * [  20190815_CsjiZD2E6h0 HONG KONG 2019, SUMMER  ]({{< relref "20190815_CsjiZD2E6h0.info_dir" >}})
 
 
 * [  20190814_8PZqO98Rf1w 香港何處何從  ]({{< relref "20190814_8PZqO98Rf1w.info_dir" >}})
+
+
+* [  20190813_E03t7HFQSJk Should the US get more involved with Hong Kong protests?  ]({{< relref "20190813_E03t7HFQSJk.info_dir" >}})
 
 
 * [  20190812 我同朋友將8月11晚發生嘅事分類整合，剪做一條片希望大家可以幫手廣傳 影片雖然有點長，但係希望大家可以動之以情 傳比自己的親朋好友，希望大家抽出人8分半鐘時間 ，好好把影片看完￼  ]({{< relref "20190812_1291569237687250" >}})
