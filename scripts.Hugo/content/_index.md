@@ -18,6 +18,9 @@ weight = 20
 * [  20190816__1162385448506994697 Amnesty International - This is Hong Kong's leaderless protest movement.  ]({{< relref "20190816__1162385448506994697.info_dir" >}})
 
 
+* [  20190816__1161030224890306561 黃台之瓜-何堪再摘-李嘉誠警告中共-自由引导人民Liberty Leading the People - 2019年8月12日，血債血還-獨立或死亡-推翻中共政權 中共大量使用大陸警察和黑社會 暴力襲擊香港市民 在地鐵放催淚彈變成毒氣室 將民眾按在血泊中毒打 將救護人員右眼打傷 造成永久失明 香港面臨生死存亡之際 借用巴西獨立的口號 獨立或死亡 Independência ou Morte 走向獨立的第一步 是推翻中共的統治  ]({{< relref "20190816__1161030224890306561.info_dir" >}})
+
+
 * [  20190815_CsjiZD2E6h0 HONG KONG 2019, SUMMER  ]({{< relref "20190815_CsjiZD2E6h0.info_dir" >}})
 
 
