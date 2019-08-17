@@ -27,6 +27,9 @@ weight = 20
 * [  20190812 我同朋友將8月11晚發生嘅事分類整合，剪做一條片希望大家可以幫手廣傳 影片雖然有點長，但係希望大家可以動之以情 傳比自己的親朋好友，希望大家抽出人8分半鐘時間 ，好好把影片看完￼  ]({{< relref "20190812_1291569237687250" >}})
 
 
+* [  20190811_vhiC21GVvmw Evidence of Hong Kong Police Violence (PART 2) | 香港黑警濫權合集 (二）(11.8.2019 太古 銅鑼灣）  ]({{< relref "20190811_vhiC21GVvmw.info_dir" >}})
+
+
 * [  20190807_Q7ZKTBTsN3Y 香港很多明星为什么为中共站台 与香港主流民意对抗？  ]({{< relref "20190807_q7zktbtsn3y_info_dir" >}})
 
 
@@ -34,6 +37,9 @@ weight = 20
 
 
 * [  20190805_9CB-UMcuUck 谈川普将中共列为货币操纵国 经济制裁在所难免  ]({{< relref "20190805_9cb_umcuuck_info_dir" >}})
+
+
+* [  20190804_6MZsv_ISwuQ Evidence of Hong Kong Police Violence | 香港黑警濫權合集 (2019) PART 1  ]({{< relref "20190804_6MZsv_ISwuQ.info_dir" >}})
 
 
 * [  20190804_3_KvPHhlc5c 共和党全国委员会通过决议 强烈谴责中共强摘法轮功器官的行径 这意味着什么  ]({{< relref "20190804_3_kvphhlc5c_info_dir" >}})
