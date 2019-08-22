@@ -9,6 +9,9 @@ weight = 20
 * [   tbq.jjj123.com 唐柏桥 ]({{< relref "tbq" >}})
 
 
+* [  20190822_Ifu6RJ2G3mA 中共绑架了14亿中国人 我们怎么办？  ]({{< relref "20190822_Ifu6RJ2G3mA.info_dir" >}})
+
+
 * [  20190821_Fa-iUvu3Qjk 陈秋实 徐晓冬做错了什么 中共建立全民DNA数据库到底要干什么！  ]({{< relref "20190821_Fa-iUvu3Qjk.info_dir" >}})
 
 
