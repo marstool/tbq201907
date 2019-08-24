@@ -9,6 +9,9 @@ weight = 20
 * [   tbq.jjj123.com 唐柏桥 ]({{< relref "tbq" >}})
 
 
+* [  20190823_ke387qMXdFI 中美正式开战 未来大家需要注意的事项  ]({{< relref "20190823_ke387qMXdFI.info_dir" >}})
+
+
 * [  20190822_Ifu6RJ2G3mA 中共绑架了14亿中国人 我们怎么办？  ]({{< relref "20190822_Ifu6RJ2G3mA.info_dir" >}})
 
 
