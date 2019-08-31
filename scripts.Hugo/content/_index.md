@@ -108,5 +108,8 @@ weight = 20
 * [  20190827_Y0AAH5SKED4 香港人权民主法案限定香港2020年举行双普选  警惕民运中的维稳派对香港时代革命的破坏  ]({{< relref "20190827_Y0AAH5SKED4.info_dir" >}})
 
 
+* [  20190830_6GDS9JPmAXM 中共能否在十一前阻止香港民眾繼續抗議？  ]({{< relref "20190830_6GDS9JPmAXM.info_dir" >}})
+
+
 * [   tbq.jjj123.com 唐柏桥 ]({{< relref "tbq" >}})
 
