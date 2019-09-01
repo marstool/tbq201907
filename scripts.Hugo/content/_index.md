@@ -111,5 +111,8 @@ weight = 20
 * [  20190830_6GDS9JPmAXM 中共能否在十一前阻止香港民眾繼續抗議？  ]({{< relref "20190830_6GDS9JPmAXM.info_dir" >}})
 
 
+* [  20190831_wXR39OXU-bg 8.31中共在香港從事恐怖活動 必須嚴厲制裁  ]({{< relref "20190831_wXR39OXU-bg.info_dir" >}})
+
+
 * [   tbq.jjj123.com 唐柏桥 ]({{< relref "tbq" >}})
 
